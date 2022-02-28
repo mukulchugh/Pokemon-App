@@ -135,7 +135,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@themukulchugh](https://twitter.com/themukulchugh) - mukulchughofficial@gmail.com
+Name - [@themukulchugh](https://twitter.com/themukulchugh) - mukulchughofficial@gmail.com
 
 Project Link: [https://github.com/mukulchugh/Pokemon-App-InstaHomes-Asssignment](https://github.com/mukulchugh/Pokemon-App-InstaHomes-Asssignment)
 
