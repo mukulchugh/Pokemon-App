@@ -75,6 +75,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [React.js](https://reactjs.org/)
 * [PokemonAPI](https://pokeapi.co/)
+* [React Bootstrap](https://react-bootstrap.github.io/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
