@@ -1,23 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React from "react";
+import "./App.css";
+import logo from "./assets/logo.png";
+import HomePage from "./pages/home";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <img
+        src={logo}
+        width="400"
+        height="auto"
+        style={{
+          padding: "40px",
+        }}
+        alt="Pokemon App"
+      />
+      <HomePage />
     </div>
   );
 }
