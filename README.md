@@ -17,7 +17,7 @@
   <h3 align="center">Pokemon App</h3>
 
   <p align="center">
-    A PokemonApp built as part of my assignment for Internship at InstaHomes!
+    A PokemonApp built using ReactJS!
     <br />
     <a href="https://pokemon-app-mukul.netlify.app/">View Demo</a>
     ·
