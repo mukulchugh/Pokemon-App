@@ -128,7 +128,7 @@ This is an example of how to list things you need to use the software and how to
 
 Name - [@themukulchugh](https://twitter.com/themukulchugh) - mukulchughofficial@gmail.com
 
-Project Link: [https://github.com/mukulchugh/Pokemon-App-InstaHomes-Asssignment](https://github.com/mukulchugh/Pokemon-App-InstaHomes-Asssignment)
+Project Link: [https://github.com/mukulchugh/Pokemon-App-InstaHomes-Asssignment](https://github.com/mukulchugh/Pokemon-App)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
